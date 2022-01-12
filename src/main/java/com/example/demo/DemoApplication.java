@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("this is main class edit 1 one more 123 edit tiep");
+		System.out.println("this is main class edit 1 one more 123 edit 123");
+		System.out.println("123");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
