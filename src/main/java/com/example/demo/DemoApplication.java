@@ -9,6 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		System.out.println("in ra cai gì vậy edit conflict branch develop");
 		System.out.println("in ra cai gì vậy");
+		System.out.println("in ra cai gì vậy branch 2");
 		System.out.println("conflict branch develop");
 		SpringApplication.run(DemoApplication.class, args);
 	}
