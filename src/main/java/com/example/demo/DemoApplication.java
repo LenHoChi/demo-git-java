@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("in ra cai gì vậy edit");
+		System.out.println("in ra cai gì vậy edit conflict branch develop");
 		System.out.println("in ra cai gì vậy");
 		SpringApplication.run(DemoApplication.class, args);
 	}
