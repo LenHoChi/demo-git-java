@@ -9,6 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		System.out.println("commit c1");
 		System.out.println("commit c2");
+		System.out.println("commit c3 conflict");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
