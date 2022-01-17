@@ -11,7 +11,7 @@ public class DemoApplication {
 		System.out.println("commit c1v2");
 		System.out.println("commit c2");
 		System.out.println("commit c2 edit");
-		System.out.println("commit c3");
+		System.out.println("commit c3 edit");
 		System.out.println("commit c4");
 		System.out.println("commit c5");
 		System.out.println("commit c6");
