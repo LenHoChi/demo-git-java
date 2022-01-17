@@ -10,6 +10,7 @@ public class DemoApplication {
 		System.out.println("commit c1");
 		System.out.println("commit c2");
 		System.out.println("commit c3");
+		System.out.println("commit c4 conflict");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
