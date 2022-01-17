@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("commit c1");
+		System.out.println("commit c1 edit");
 		System.out.println("commit c1v2");
 		System.out.println("commit c2");
 		System.out.println("commit c2 edit");
