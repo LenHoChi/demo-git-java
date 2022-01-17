@@ -12,6 +12,7 @@ public class DemoApplication {
 		System.out.println("commit c3");
 		System.out.println("commit c4");
 		System.out.println("commit c5");
+		System.out.println("commit c6");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
