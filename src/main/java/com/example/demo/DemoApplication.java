@@ -83,6 +83,7 @@ public class DemoApplication {
 		resultEmspIds.addAll(List.of(2L));
 		resultEmspIds.addAll(List.of(2L));
 		System.out.println(resultEmspIds);
+		System.out.println(resultEmspIds);
 	}
 
 }
