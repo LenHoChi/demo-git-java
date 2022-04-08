@@ -5,5 +5,6 @@ public class len {
         System.out.println("this is len class");
         System.out.println("123");
         System.out.println("123");
+        System.out.println("1234");
     }
 }
